@@ -4,7 +4,6 @@
 
 1. Clone the documentation repository
    - This is a _public_ repository – do not commit any code or sensitive information!
-2. Make sure you have access to the latest version of the shared Word document
 
 ## Dependencies
 1. (Optional) Install a Markdown editor
